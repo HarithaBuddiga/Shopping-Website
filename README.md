@@ -2,7 +2,7 @@
 
 This is a simple HTML & CSS project showcasing a basic online shopping page with categories for men, women, and kids.
 
-## Files
+## Files 
 - `shopping.html` – Main HTML page
 - `External CSS.html` – Styling for the page
 - `men.jpg`, `women.jpg`, `kids.jpg` – Images for categories
